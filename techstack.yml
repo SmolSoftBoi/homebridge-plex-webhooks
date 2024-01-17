@@ -1,0 +1,200 @@
+repo_name: SmolSoftBoi/homebridge-plex-webhooks
+report_id: 18579e2b36d7a45580f8d3cd05ae3aca
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-17T01:44:39+00:00'
+requested_by: SmolSoftBoi
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks
+  detection_source: Repo Metadata
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-05-26 23:49:26.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-05-26 23:49:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks
+  detection_source: Repo Metadata
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 8.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-12-13 03:38:49.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 9.2.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2021-01-15 19:15:29.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-05-26 23:49:26.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.20
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-12-13 03:38:49.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-12-13 03:38:49.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-12-13 03:38:49.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-05-26 23:49:26.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-05-26 23:49:26.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2020-12-13 03:38:49.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 3.5.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/SmolSoftBoi/homebridge-plex-webhooks/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Gergely Iharosi
+  last_updated_on: 2021-01-15 19:15:29.000000000 Z
