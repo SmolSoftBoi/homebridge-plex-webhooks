@@ -3,12 +3,12 @@
 ## Tech Stack
 SmolSoftBoi/homebridge-plex-webhooks is built on the following main stack:
 
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 SmolSoftBoi/homebridge-plex-webhooks is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [SmolSoftBoi/homebridge-plex-webhooks](https://github.com/SmolSoftBoi/homebridge-plex-webhooks)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/17/24 <br/>Report generated|
+|14<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -139,7 +139,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[chalk](https://www.npmjs.com/chalk)|v4.1.0|12/13/20|Gergely Iharosi |MIT|N/A|
 |[express](https://www.npmjs.com/express)|v4.17.1|05/26/20|Gergely Iharosi |MIT|[CVE-2022-24999](https://github.com/advisories/GHSA-hrpp-h998-j3pp) (High)|
-|[ip](https://www.npmjs.com/ip)|v1.1.5|05/26/20|Gergely Iharosi |MIT|N/A|
+|[ip](https://www.npmjs.com/ip)|v1.1.5|05/26/20|Gergely Iharosi |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
 |[multer](https://www.npmjs.com/multer)|v1.4.2|12/13/20|Gergely Iharosi |MIT|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.5.0|01/15/21|Gergely Iharosi |BSD-2-Clause,WTFPL|N/A|
 
